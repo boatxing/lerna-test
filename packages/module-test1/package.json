@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "module-test2": "^0.0.1"
-  }
+  },
+  "gitHead": "dd44c97d2d744749c742e4f0b4aa5bdc08fce147"
 }
