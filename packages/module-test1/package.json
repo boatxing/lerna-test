@@ -19,5 +19,5 @@
   "publishConfig": {
     "registry": "https://github.com/boatxing/lerna-test.git"
   },
-  "gitHead": "935fd27a43df179174ddeee1c06d7ec532398452"
+  "gitHead": "21c55eb9fc9a23df5ba7b9990aa9d85644782819"
 }

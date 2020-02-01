@@ -1,15 +1,6 @@
 {
   "version": "0.0.4",
   "npmClient": "npm",
-  "command": {
-    "publish": {
-      "ignoreChanges": [
-        "*.md"
-      ],
-      "message": "chore(release): publish",
-      "registry": "https://github.com/boatxing/lerna-test.git"
-    }
-  },
   "packages": [
     "packages/*"
   ]
