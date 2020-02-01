@@ -11,8 +11,13 @@
   "dependencies": {
     "module-test2": "^0.0.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boatxing/lerna-test.git",
+    "directory": "packages/module-test1"
+  },
   "publishConfig": {
     "registry": "https://github.com/boatxing/lerna-test.git"
   },
-  "gitHead": "613749c998ff3254da8df7e8b520928ac0d5754a"
+  "gitHead": "935fd27a43df179174ddeee1c06d7ec532398452"
 }
