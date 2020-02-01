@@ -11,5 +11,8 @@
   "dependencies": {
     "module-test2": "^0.0.2"
   },
+  "publishConfig": {
+    "registry": "https://github.com/boatxing/lerna-test.git"
+  },
   "gitHead": "613749c998ff3254da8df7e8b520928ac0d5754a"
 }
